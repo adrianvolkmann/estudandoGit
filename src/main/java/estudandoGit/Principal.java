@@ -11,6 +11,8 @@ public class Principal {
 		System.out.println("commit2");
 		System.out.println("commit3");
 		System.out.println("commit4");
+		System.out.println("AlteracaoA");
+		
 		
 	}
 	
