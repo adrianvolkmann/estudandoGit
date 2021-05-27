@@ -8,7 +8,7 @@ public class Principal {
 		
 		System.out.println("Ola Git!");
 		
-		System.out.println("Master!");
+		System.out.println("Mergeado para Master!");
 		
 	}
 	
