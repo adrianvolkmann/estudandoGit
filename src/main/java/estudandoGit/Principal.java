@@ -6,7 +6,8 @@ public class Principal {
 
 		System.out.println("Apagado o lixo!");
 		
-		System.out.println("depois do rebase, voltado pro master e alterado");
+		System.out.println("alterar descricao commit");
+		System.out.println("amend comedit");
 		
 	}
 }
