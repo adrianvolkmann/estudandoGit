@@ -10,6 +10,8 @@ public class Principal {
 		
 		System.out.println("Mergeado para Master!");
 		
+		System.out.println("Nova Linha!");
+		
 	}
 	
 }
