@@ -6,7 +6,7 @@ public class Principal {
 
 		System.out.println("Apagado o lixo!");
 		
-		System.out.println("voltei pro master");
+		System.out.println("depois do rebase, voltado pro master e alterado");
 		
 	}
 }
