@@ -6,5 +6,7 @@ public class Principal {
 
 		System.out.println("Apagado o lixo!");
 		
+		System.out.println("voltei pro master");
+		
 	}
 }
