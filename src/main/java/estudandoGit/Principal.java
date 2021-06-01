@@ -7,6 +7,6 @@ public class Principal {
 		System.out.println("Hola!");
 		System.out.println("Hola denovo!");
 		System.out.println("Linha Nova!");
-		
+		System.out.println("PRUNE");
 	}
 }
